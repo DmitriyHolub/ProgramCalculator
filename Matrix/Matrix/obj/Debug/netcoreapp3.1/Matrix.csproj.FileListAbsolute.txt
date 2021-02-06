@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.exe
+C:\Users\hp\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.deps.json
+C:\Users\hp\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.json
+C:\Users\hp\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.dll
+C:\Users\hp\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.pdb
+C:\Users\hp\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfo.cs
+C:\Users\hp\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.dll
+C:\Users\hp\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.pdb
+C:\Users\hp\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.genruntimeconfig.cache
+C:\Users\hp\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\MatrixLibrary.dll
+C:\Users\hp\source\repos\Matrix\Matrix\bin\Debug\netcoreapp3.1\MatrixLibrary.pdb
+C:\Users\hp\source\repos\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.CopyComplete

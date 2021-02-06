@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\Matrix\MatrixLibrary\obj\Debug\netcoreapp3.1\MatrixLibrary.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Matrix\MatrixLibrary\obj\Debug\netcoreapp3.1\MatrixLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Matrix\MatrixLibrary\obj\Debug\netcoreapp3.1\MatrixLibrary.AssemblyInfo.cs
+C:\Users\hp\source\repos\Matrix\MatrixLibrary\obj\Debug\netcoreapp3.1\MatrixLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Matrix\MatrixLibrary\bin\Debug\netcoreapp3.1\MatrixLibrary.deps.json
+C:\Users\hp\source\repos\Matrix\MatrixLibrary\bin\Debug\netcoreapp3.1\MatrixLibrary.dll
+C:\Users\hp\source\repos\Matrix\MatrixLibrary\bin\Debug\netcoreapp3.1\MatrixLibrary.pdb
+C:\Users\hp\source\repos\Matrix\MatrixLibrary\obj\Debug\netcoreapp3.1\MatrixLibrary.dll
+C:\Users\hp\source\repos\Matrix\MatrixLibrary\obj\Debug\netcoreapp3.1\MatrixLibrary.pdb
